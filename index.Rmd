@@ -1,0 +1,15 @@
+---
+title: "Gaelic Algorithmic Research Group (Quick Setup)"
+author: "Gaelic Algorithmic Research Group"
+date: "`r Sys.Date()`"
+description: "A Quick Setup Document for Gaelic Algorithmic Research Group projects"
+url: "https://Gaelic-Algorithmic-Research-Group.github.io/Quick-Setup/"
+github-repo: "Gaelic-Algorithmic-Research-Group/Quick-Setup"
+site: bookdown::bookdown_site
+documentclass: book
+favicon: "favicon.png"
+---
+
+# Overview {-}
+
+This reference guide describes a Quick Setup (or SOP) for Gaelic Algorithmic Research Group projects. This SOP is organized into 6 different sections: (1) Project Management, (2) File Structure, (3) Data, (4) Code, (5) High Performance Computing, and (6) Reports and Publications. Section 1 provides an overview of the platforms we use and how to install them; Section 2 covers file structure and storage; Section 3 describes file naming and metadata standards, as well as what the Gaelic Algorithmic Research Group data directory is composed of; Section 4 highlights best practices for coding; Section 5 covers high performance computing; and Section 6 outlines aspects of the publication process from Gaelic Algorithmic Research Group affiliations to preparing a public GitHub repository.
